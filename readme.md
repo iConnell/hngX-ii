@@ -2,6 +2,8 @@
 
 This repository contains a simple REST API for managing person records. You can create, read, update, and delete person records. 
 
+Live link - https://hngx-ii.onrender.com/api
+
 ## Getting Started
 
 ### Prerequisites
@@ -109,6 +111,7 @@ The API provides the following endpoints
 
 - ### Retrieve Person
     - GET ```/api/user_id```
+    - status code 200
 
     Example response:
 
