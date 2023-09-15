@@ -2,20 +2,6 @@
 
 This repository contains a simple REST API for managing person records. You can create, read, update, and delete person records. 
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the API](#running-the-api)
-- [API Endpoints](#api-endpoints)
-- [Dynamic Parameter Handling](#dynamic-parameter-handling)
-- [Testing](#testing)
-- [Database Modeling](#database-modeling)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 ### Prerequisites
