@@ -47,6 +47,8 @@ Test the API:
 
     python manage.py test
 
+###### E-R Diagram 
+![alt image showing the E-R diagram](https://github.com/iConnell/hngX-ii/blob/master/E-R_diagram.png?raw=true)
 
 
 
